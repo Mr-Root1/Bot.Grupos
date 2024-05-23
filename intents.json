@@ -1,0 +1,1918 @@
+{
+    "intents": [
+      {
+        "tag": "INFECOL",
+        "patrones": [
+            "Astronomía",
+            "Ciencias computacionales",
+            "Ingeniería y Tecnología Espacial",
+            "Realidad virtual",
+            "Telecomunicaciones"
+        ],
+        "respuestas": [
+            "El grupo de Investigación en Informática, Electrónica y Comunicaciones - INFELCOM posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002165 ó también puedes contactarte directamente: Líder del grupo Jorge Enrique Espindola Diaz, correo: infelcom@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GINTEL",
+        "patrones": [
+            "RF / Microondas",
+            "Comunicaciones Inalámbricas",
+            "Procesamiento y Transporte de la Información"
+        ],
+        "respuestas": [
+            "El grupo de Investigación en Telecomunicaciones GINTEL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001566 ó también puedes contactarte directamente: Líder del grupo Herman Antonio Fernandez Gonzalez, correo: grupo.gintel@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIRA",
+        "patrones": [
+            "Diseño y Test",
+            "Energía y Medio Ambiente",
+            "Robótica y Automatización",
+            "Tecnología Agropecuaria"
+        ],
+        "respuestas": [
+            "El grupo de Investigación en Robótica y Automatización Industrial Gira posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000590 ó también puedes contactarte directamente: Líder del grupo Wilson Javier Perez Holguin, correo: grupo.gira@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DSP",
+        "patrones": [
+            "Ingeniería",
+            "Instrumentación y Automatización Industrial",
+            "Procesamiento de Señales",
+            "grupos de Educación en Ingeniería"
+        ],
+        "respuestas": [
+            "El grupo de Investigación en Procesamiento de Señales DSP-UPTC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002286 ó también puedes contactarte directamente: Líder del grupo Liliana  Fernandez Samaca, correo: grupo.dsp@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "ACFYDE",
+        "patrones": [
+            "Actividad Fisica Y Salud",
+            "Educacion Fisica Y Deporte Inclusivo",
+            "Entrenamiento Y Ciencias Del Deporte En Altitud",
+            "Practicas Innovadoras En Educación, Cultura Y Ethos Corporal Emergente."
+        ],
+        "respuestas": [
+            "El grupo ACFYDE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007130 ó también puedes contactarte directamente: Líder del grupo Walter  Padilla Perez, correo: acfyde.edufisica@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "AION",
+        "patrones": [
+            "Educación y Subjetividades",
+            "Infancia, experiencia y pensamiento",
+            "Lúdica y pedagogía"
+        ],
+        "respuestas": [
+            "El grupo AION - Tiempo de la Infancia posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000015884 ó también puedes contactarte directamente: Líder del grupo Maria Teresa Suarez Vaca, correo: grupo.aion@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "AVE",
+        "patrones": [
+            "Gestión de conocimiento y redes sociales",
+            "Tecnologías de la información y la comunicación en la educación",
+            "Gestión de conocimiento y redes sociales",
+            "Tecnologías de la información y la comunicación en la educación"
+        ],
+        "respuestas": [
+            "El grupo de Ambientes Virtuales Educativos posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000981 ó también puedes contactarte directamente: Líder del grupo Olga  Najar Sanchez, correo: grupo.ave@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "REGIÓN",
+        "patrones": [
+            "Estudios culturales latinoamericanos: nacionales y regionales",
+            "Estudios visuales latinoamericanos: nacionales y regionales",
+            "Historia regional",
+            "Historia cultural y ambiental",
+            "Historia de las mujeres  y del movimiento lgtbq+",
+            "Historia económica y empresarial del suroccidente colombiano",
+            "Historia política",
+            "Representaciones del poder"
+        ],
+        "respuestas": [
+            "El grupo de Asociación: Centro de Estudios Regionales, Región posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000043 ó también puedes contactarte directamente: Líder del grupo Olga Yaneth Acuña Rodriguez, correo: grupo.region@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIBIOCONS",
+        "patrones": [
+            "Inventario y análisis de la biodiversidad",
+            "Palinología y paleoecología",
+            "Teledeteccion y sensores remotos"
+        ],
+        "respuestas": [
+            "El grupo de Biodiversidad y Conservación posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000396 ó también puedes contactarte directamente: Líder del grupo Juan Emiro Carvajal Cogollo, correo: gibiocons@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "APS",
+        "patrones": [
+            "Individuo, familia, comunidad y territorio",
+            "Educacion y salud"
+        ],
+        "respuestas": [
+            "El grupo de Atención Primaria en Salud Uptc posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016839 ó también puedes contactarte directamente: Líder del grupo Ludy Alexandra Vargas Torres, correo: aps.medicina@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CACAENTA",
+        "patrones": [
+            "Educación musical & multidisciplinariedad",
+            "Emociones & educación",
+            "Historia, cultura & música en colombia",
+            "Infancias  &  comunidades"
+        ],
+        "respuestas": [
+            "El grupo de CACAENTA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004433 ó también puedes contactarte directamente: Líder del grupo Rafael Enrique Buitrago Bonilla, correo: cacaenta@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CREPIB",
+        "patrones": [
+            "Desarrollo regional",
+            "Gestión del conocimiento",
+            "Innovación y desarrollo tecnológico",
+            "Productividad y competitividad"
+        ],
+        "respuestas": [
+            "El grupo de CREPIB posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000163 ó también puedes contactarte directamente: Líder del grupo Mariana  Palacios Preciado, correo: grupo.crepib@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CALDAS",
+        "patrones": [
+            "Biogeografía",
+            "Biología de la conservación",
+            "Cambio climático",
+            "Docencia de la geografía",
+            "Ecología del paisaje",
+            "Economía ecológica o la ciencia de la sustentabilidad",
+            "Estadística espacial"
+        ],
+        "respuestas": [
+            "El grupo Caldas posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000542 ó también puedes contactarte directamente: Líder del grupo Jorge Vicente Ruiz Linares, correo: caldas@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CIOL",
+        "patrones": [
+            "Aplicaciones de modelamiento matemático en la educación",
+            "Logística y transporte",
+            "Modelaje matemático aplicado a logística",
+            "Programación de la producción",
+            "Aplicaciones de la investigación de operaciones en salud"
+        ],
+        "respuestas": [
+            "El grupo Centro de Investigaciones en Optimización y Logística - CIOL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000287 ó también puedes contactarte directamente: Líder del grupo Rafael Guillermo Garcia Caceres, correo: grupo.ciol@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CETIN",
+        "patrones": [
+            "Gestión educativa",
+            "Innovaciones pedagógicas en tecnología e informática",
+            "Software educativo"
+        ],
+        "respuestas": [
+            "El grupo de Ciencia y Educación en Tecnología e Informática - CETIN posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006140 ó también puedes contactarte directamente: Líder del grupo Myriam Cecilia Leguizamon Gonzalez, correo: grupo.cetin@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CITESA",
+        "patrones": [
+            "Cambio climático y adaptación",
+            "Desarrollo de sistemas de baja dimensionalidad para aplicaciones ambientales y tecnológicas",
+            "Diagnóstico y control de la contaminación ambiental",
+            "Dinámica de contaminantes y geoquímica ambiental",
+            "Educación, transformación social e innovación"
+        ],
+        "respuestas": [
+            "El grupo de Ciencias de la Tierra y Tecnología Para la Sostenibilidad Ambiental (CITESA) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021942 ó también puedes contactarte directamente: Líder del grupo Mercedes  Diaz Lagos, correo: mercedes.diaz@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SALUD",
+        "patrones": [
+            "Comunidades saludables",
+            "Evaluación, diagnóstico   y tratamiento psicológico"
+        ],
+        "respuestas": [
+            "El grupo de Clínica y Salud posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002518 ó también puedes contactarte directamente: Líder del grupo Yenny  Salamanca Camargo, correo: clinica.salud@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CIDE",
+        "patrones": [
+            "Biodiversidad",
+            "Competitividad",
+            "Desarrollo empresarial",
+            "Desarrollo rural sostenible",
+            "Diagnóstico y control fitosanitario en cultivos de importancia económica.",
+            "Evaluacion genetica y mejoramiento genetico de cultivos",
+            "Innovación y gestion tecnologica"
+        ],
+        "respuestas": [
+            "El grupo de Competitividad Innovación y Desarrollo Empresarial- CIDE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007518 ó también puedes contactarte directamente: Líder del grupo Ana Cruz Morillo Coronado, correo: cide@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CODEL",
+        "patrones": [
+            "Competitividad y asociatividad",
+            "Espiritu emprendedor y cultura empresarial",
+            "Las tic en la apropiación del conocimiento",
+            "Territorio y desarrollo rural"
+        ],
+        "respuestas": [
+            "El grupo de Competitividad y Desarrollo Local posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004027 ó también puedes contactarte directamente: Líder del grupo Wilson  Gonzalez Santos, correo: codel@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CSXX",
+        "patrones": [
+            "Ciudadania y violencia",
+            "Condiciones sociales para el proceso de paz y postconflicto",
+            "Conflicto agrario",
+            "Educacion parala paz y tratamiento de conflictos",
+            "Fuentes para la investigacion historica",
+            "Origen y construcción de la nación-ruta del bicentenario",
+            "Territorio y conflicto"
+        ],
+        "respuestas": [
+            "El grupo de Conflictos Sociales Siglo XX posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000494 ó también puedes contactarte directamente: Líder del grupo Francisco Javier Guerrero Baron, correo: jguerrer99@hotmail.com"
+        ]
+    },
+    {
+        "tag": "GICCE",
+        "patrones": [
+            "Ecología de saberes y tic",
+            "Formación, saberes y subjetividades",
+            "Interculturalidad, memoria y educación por la paz",
+            "Pedagogía y visiones curriculares",
+            "Procesos  informáticos y  nuevas tecnologías (no activa)",
+            "Redes sociales del conocimiento (no activa)"
+        ],
+        "respuestas": [
+            "El grupo de Construyendo Comunidad Educativa posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002294 ó también puedes contactarte directamente: Líder del grupo Nubia Cecilia Agudelo Cely, correo: gi.cce@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SMD",
+        "patrones": [
+            "Creacion y estética",
+            "Estética de la cultura popular.",
+            "Historia y crítica  de la literatura  y las artes",
+            "Lectura, escritura y publicaciones",
+            "Lingüística, lingüística aplicada y estudios socioculturales",
+            "Pedagogía de la literatura y las artes",
+            "Tradición oral"
+        ],
+        "respuestas": [
+            "El grupo de Corporación Si Mañana Despierto Para la Creación e Investigación de la Literatura y Las Artes: SMD posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000106 ó también puedes contactarte directamente: Líder del grupo Donald Freddy Calderon Noguera, correo: smd.uptc@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CREPEDA",
+        "patrones": [
+            "Arte, cultura y territorio",
+            "Creación y pedagogía",
+            "Pedagogía y didáctica de las artes"
+        ],
+        "respuestas": [
+            "El grupo de Creación y Pedagogía posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000103 ó también puedes contactarte directamente: Líder del grupo Jairo  Moreno Ospina, correo: creacion.pedagogia@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CITEC",
+        "patrones": [
+            "Acceso a la propiedad de la tierra",
+            "Derecho procesal",
+            "Responsabilidad civil y del estado"
+        ],
+        "respuestas": [
+            "El grupo de Cuerpo Investigativo de Técnica Jurídica CITEC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012202 ó también puedes contactarte directamente: Líder del grupo Leonel Antonio Vega Perez, correo: citec@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DANUM",
+        "patrones": [
+            "Materiales polimericos",
+            "Química medicinal",
+            "Síntesis y funcionalización de aluminosilicatos para remediación ambiental"
+        ],
+        "respuestas": [
+            "El grupo DANUM - Desarrollo y Aplicaciones de Nuevos Materiales posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006350 ó también puedes contactarte directamente: Líder del grupo Mery Carolina Pazos Zarama, correo: grupo.danum@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DEPENALINT",
+        "patrones": [
+            "Derecho penal, internacional y justicia transicional en colombia.",
+            "Derecho penitenciario",
+            "Línea de investigación en sistema penal.",
+            "Sistema de responsabilidad penal adolescente"
+        ],
+        "respuestas": [
+            "El grupo de Derecho Penal y Derecho Internacional Humanitario posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000020783 ó también puedes contactarte directamente: Líder del grupo Henry  Torres Vasquez, correo: grupo.depenalint@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DHYMA",
+        "patrones": [
+            "Derechos de las victimas",
+            "Derechos humanos y economia",
+            "Educacion en derechos humanos",
+            "Teoría de los derechos humanos",
+            "Derechos humanos y politicas publicas"
+        ],
+        "respuestas": [
+            "El grupo de Derechos Humanos y Medio Ambiente posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000730 ó también puedes contactarte directamente: Líder del grupo Luz Mireya Mendieta Pineda, correo: dhyma@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DHCE",
+        "patrones": [
+            "Desarrollo, cognición y educación"
+        ],
+        "respuestas": [
+            "El grupo de Desarrollo Humano, Cognición y Educación posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003956 ó también puedes contactarte directamente: Líder del grupo Claudia Patricia Navarro Roldan, correo: grupo.dhce@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DSTS",
+        "patrones": [
+            "Diseño e implementación de propuestas para divulgación, apropiación, aplicación y uso de la ciencia y la tecnología",
+            "Implementaciones tecnológicas sostenibles para la solución a necesidades específicas del entorno",
+            "Materiales, metodologías y sistemas para el desarrollo tecnológico sostenible"
+        ],
+        "respuestas": [
+            "El grupo de Desarrollo de Soluciones Tecnológicas Sostenibles posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021361 ó también puedes contactarte directamente: Líder del grupo Eduin Yesid Mora Mendoza, correo: eduin.mora@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DECTEN",
+        "patrones": [
+            "Modelos pedagógicos",
+            "Prototipos didacticos",
+            "Software educativo"
+        ],
+        "respuestas": [
+            "El grupo de Didáctica Para la Enseñanza de la Ciencia y Tecnología en Niños posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000162 ó también puedes contactarte directamente: Líder del grupo Julio Enrique Duarte, correo: decten.duitama@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "DITMAV",
+        "patrones": [
+            "Desarrollo tecnológico, diseño e innovación",
+            "Investigación y asistencia técnica en materiales avanzados",
+            "Nuevas tecnologías para la transformación de materiales"
+        ],
+        "respuestas": [
+            "El grupo de Diseño, Innovación y Asistencia Técnica Para Materiales Avanzados DITMAV posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000018241 ó también puedes contactarte directamente: Líder del grupo Edwin Yesid Gomez Pachon, correo: grupo.ditmav@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "EDUMAES",
+        "patrones": [
+            "Didactica de las matemáticas",
+            "Formación de profesores de matemáticas"
+        ],
+        "respuestas": [
+            "El grupo EDUMAES posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010694 ó también puedes contactarte directamente: Líder del grupo Clara Emilse Rojas Morales, correo: grupo.edumaes@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "ELEX",
+        "patrones": [
+            "Didactica de la enseñanza de lenguas extranjeras",
+            "Didáctica de la lengua materna",
+            "Didáctica de lenguas extranjeras",
+            "Lingüística",
+            "Literatura",
+            "Pragmática"
+        ],
+        "respuestas": [
+            "El grupo de ELEX posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005540 ó también puedes contactarte directamente: Líder del grupo Jose Humberto Motta Avila, correo: grupelex@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEPNIT",
+        "patrones": [
+            "Ecoeficiencia y ecología industrial",
+            "Emprendimiento en ciencias-bioempresa",
+            "Fitoquímica y productos naturales",
+            "Innovación y prospectiva tecnológica",
+            "Pedagogía de las ciencias a nivel universitario",
+            "Salud y medio ambiente",
+            "Tecnología de plasma no térmico"
+        ],
+        "respuestas": [
+            "El grupo de Ecoeficiencia, Productos Naturales e Innovación Tecnológica posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003913 ó también puedes contactarte directamente: Líder del grupo Victor Hugo Cely Niño, correo: vhcely999@hotmail.com"
+        ]
+    },
+    {
+        "tag": "EBAC",
+        "patrones": [
+            "Ecología de insectos de alta montaña de la cordillera oriental",
+            "Ecología de la restauración y restauración ecológica en ecosistemas altoandinos de boyacá",
+            "Ecología de semillas en ecosistemas de alta montaña de la cordillera oriental",
+            "Estudios de ecosistemas de alta montaña colombiana"
+        ],
+        "respuestas": [
+            "El grupo de Ecología de Bosques Andinos Colombianos - EBAC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000086 ó también puedes contactarte directamente: Líder del grupo Francisco  Cortes Perez, correo: grupo.ebac@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GESDR",
+        "patrones": [
+            "Atención primaria y promoción de la salud",
+            "Desarollo comunitaro rural",
+            "Eduacion rural",
+            "Pedagogia y sociedad"
+        ],
+        "respuestas": [
+            "El grupo de Educación, Salud y Desarrollo Rural posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001965 ó también puedes contactarte directamente: Líder del grupo Alba Nidia Triana Ramirez, correo: educarural@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIEMPRENDER",
+        "patrones": [
+            "Emprenderismo, empresarismo, gestión y politica",
+            "Mercadeo, turismo y sostenibilidad"
+        ],
+        "respuestas": [
+            "El grupo de Emprender ATH Grupo de Investigación posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002337 ó también puedes contactarte directamente: Líder del grupo Pedro Ignacio Moya Espinosa, correo: giemprender@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEAPS",
+        "patrones": [
+            "Enfermería cronica-quirurgica y critica",
+            "Enfermería materno perinatal e infantil",
+            "Fundamentos y gestión en enfermería",
+            "Medicina preventiva"
+        ],
+        "respuestas": [
+            "El grupo de Enfermería y APS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000018014 ó también puedes contactarte directamente: Líder del grupo Lina Fernanda Barrera Sanchez, correo: lina.barrera01@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GERJF",
+        "patrones": [
+            "Perspectivas, teorias, enfoques y practicas de la contabilidad, la administración y la economía",
+            "Perspectivas, teorias, enfoques y practicas de la pedagogía, el currículo y la didáctica",
+            "Perspectivas, teorias, enfoques y prácticas de los derechos humanos"
+        ],
+        "respuestas": [
+            "El grupo de Estudios Regionales Julio Flores posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000013948 ó también puedes contactarte directamente: Líder del grupo Javier Alonso Zambrano Hernandez, correo: julioflorez.chiquinquira@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "FIMED",
+        "patrones": [
+            "Actividad física para la salud",
+            "Entrenamiento del deporte",
+            "Fisiología y medicina del deporte",
+            "Pedagogía y didáctica del deporte y la educación física"
+        ],
+        "respuestas": [
+            "El grupo FIMED posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000012294 ó también puedes contactarte directamente: Líder del grupo Javier  Porras Alvarez, correo: fimed.chiquinquira@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIFILOS",
+        "patrones": [
+            "Concepción de infancia, niño y niñez en la educación",
+            "Educación, escuela y sociedad: problemáticas y nuevas perspectivas",
+            "Filosofia, genealogía y educación",
+            "Filosofía, estética y educación artistica",
+            "Lenguas, lenguaje, sociolingüistica y enseñanza",
+            "Politicas y  educación"
+        ],
+        "respuestas": [
+            "El grupo de Filosofía, Educación y Pedagogía posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001410 ó también puedes contactarte directamente: Líder del grupo Esau Ricardo Paez Guzman, correo: gifilosofia.pedagogia@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "FISIMATER",
+        "patrones": [
+            "Análisis y caracterizacion  de cerámicos y vidrios",
+            "Caracterizacion de materiales",
+            "Caracterización y estudio de materiales amorfos",
+            "Materiales aplicados en remediación ambiental",
+            "Materiales para aplicaciones biomédicas",
+            "Propiedades de transporte cuántico en sistemas de baja dimensionalidad",
+            "Superconductividad"
+        ],
+        "respuestas": [
+            "El grupo de Física de Materiales posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000421 ó también puedes contactarte directamente: Líder del grupo Carlos Arturo Parra Vargas, correo: grupo.fisicademateriales@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GALASH",
+        "patrones": [
+            "Ciencias computacionales",
+            "Ingeniería de software",
+            "Seguridad de la información"
+        ],
+        "respuestas": [
+            "El grupo GALASH posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000013461 ó también puedes contactarte directamente: Líder del grupo Marco Javier Suarez Baron, correo: marco.suarez@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GERCUS",
+        "patrones": [
+            "Cuidado en la adversidad",
+            "Equidad de género en salud",
+            "Formación de lideres en gestión del conocimiento en cuidados de la salud",
+            "Producción, divulgación y documentación científica en enfermería",
+            "Saberes populares en salud"
+        ],
+        "respuestas": [
+            "El grupo GERCUS Exclusiones y Resistencias en El Cuidado de la Salud posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001555 ó también puedes contactarte directamente: Líder del grupo Milena Alexandra Galvis Lopez, correo: grupo.gercus@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GICA",
+        "patrones": [
+            "Construcción",
+            "Educación en ingeniería y apropiación social del conocimiento",
+            "Estructuras",
+            "Geomática",
+            "Gestión ambiental",
+            "Materiales",
+            "Medición y gestión de riesgos",
+            "Recursos hidráulicos"
+        ],
+        "respuestas": [
+            "El grupo GICA Grupo de Investigación en Ingeniería Civil y Ambiental posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005396 ó también puedes contactarte directamente: Líder del grupo Oscar Javier Gutierrez Junco, correo: gica@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIDIMEVETZ",
+        "patrones": [
+            "Sanidad animal. área: enfermedades infecciosas y parasitarias. subáreas: parasitologia, microbiología, zoonosis, epidemiología y patología."
+        ],
+        "respuestas": [
+            "El grupo GIDIMEVETZ posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001496 ó también puedes contactarte directamente: Líder del grupo Martin Orlando Pulido Medellin, correo: gidimevetz@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GENTE",
+        "patrones": [
+            "Control y automatización",
+            "Diseño mecánico y procesos de producción",
+            "Energías y medio ambiente",
+            "Gestión de activos y mantenimiento industrial"
+        ],
+        "respuestas": [
+            "El grupo Gente posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006939 ó también puedes contactarte directamente: Líder del grupo Wilman Alonso Pineda Muñoz, correo: grupo.gente@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEOT",
+        "patrones": [
+            "Geografía ambiental",
+            "Geografía regional",
+            "Geomática aplicada a la solución de problemas geográficos",
+            "Ordenación y desarrollo territorial sostenible",
+            "Sociedad y territorio"
+        ],
+        "respuestas": [
+            "El grupo Geografía y Ordenamiento Territorial (GEOT) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000561 ó también puedes contactarte directamente: Líder del grupo Nohora Inés Carvajal Sánchez, correo: grupo.geot@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEOQUIAMB",
+        "patrones": [
+            "Beneficio de minerales",
+            "Caracterización y modelamiento de sistemas físicos para ingeniería y materiales",
+            "Carbones y geoquímica orgánica",
+            "Geotecnia aplicada a minería",
+            "Minería, medio ambiente y desarrollo sostenible"
+        ],
+        "respuestas": [
+            "El grupo Geoquímica Ambiental posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002285 ó también puedes contactarte directamente: Líder del grupo Jairo Martin Espitia Lopez, correo: jairomartin.espitia@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CERES",
+        "patrones": [
+            "Administración agropecuaria",
+            "Desarrollo de la poscosecha",
+            "Gestion agroindustrial"
+        ],
+        "respuestas": [
+            "El grupo Gestión Agroindustrial, Desarrollo de la Poscosecha, Administración Agropecuaria - CERES posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001667 ó también puedes contactarte directamente: Líder del grupo Gloria Acened Puentes Montañez, correo: ceres.investigacion@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIGAS",
+        "patrones": [
+            "Ciencia y desarrollo sostenible",
+            "Economía, educación cultura y sociedad.",
+            "Globalización e integración económica y derechos humanos",
+            "Productividad e innovación empresarial con calidad",
+            "Salud pública y políticas en salud"
+        ],
+        "respuestas": [
+            "El  Grupo de Investigación en Gestión Administrativa y Empresarial Sostenible GIGAS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007634 ó también puedes contactarte directamente: Líder del grupo Jose Irenarco Pedraza Suarez, correo: grupodeinvestigaciongigas@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "BIOPLASMA",
+        "patrones": [
+            "Agroecología",
+            "Análisis molecular",
+            "Biotecnología ambiental",
+            "Citogenética y mutagénesis",
+            "Embriogenesis no zigótica",
+            "Limpieza de material",
+            "Micropropagación",
+            "Organogénesis"
+        ],
+        "respuestas": [
+            "El Grupo Bioplasma - UPTC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001977 ó también puedes contactarte directamente: Líder del grupo Zaida Zarely Ojeda Perez, correo: lab.bioplasma@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIDICON",
+        "patrones": [
+            "Contable y financiera",
+            "Control y auditoría",
+            "Econonía y finanzas",
+            "Gestión empresarial",
+            "Normas internacionales de información financiera",
+            "Sociedad y ambiente",
+            "Tributaria"
+        ],
+        "respuestas": [
+            "El Grupo Dinámica Contable - GIDICON posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000013000 ó también puedes contactarte directamente: Líder del grupo Lina Marleny Lopez Sanchez, correo: gidicon@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEORG",
+        "patrones": [
+            "Ecología y monitoreo de fauna silvestre",
+            "Ecología funcional vegetal",
+            "Genética de la conservación"
+        ],
+        "respuestas": [
+            "El Grupo Ecología de Organismos - UPTC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002586 ó también puedes contactarte directamente: Líder del grupo Carolina  Ramos Montaño, correo: grupo.geo@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "EUREKA+I",
+        "patrones": [
+            "Esquemas y modelos de productividad y competitividad"
+        ],
+        "respuestas": [
+            "El Grupo Interdisciplinario de Investigación EUREKA+I posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011283 ó también puedes contactarte directamente: Líder del grupo Cecilia De Las Mercedes Ramirez Leon, correo: cecyrami@hotmail.com"
+        ]
+    },
+    {
+        "tag": "CARBOQUIMICA",
+        "patrones": [
+            "Carboquimica",
+            "Pirólisis de materiales carbonosos",
+            "Tecnologias limpias y energías alternativas"
+        ],
+        "respuestas": [
+            "El Grupo Interdisciplinario e Interinstitucional de Carbones y Carboquimica posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001950 ó también puedes contactarte directamente: Líder del grupo Maria Del Pilar Triviño Restrepo, correo: grupo.carbones@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GICI",
+        "patrones": [
+            "Didáctica de la matemática, pensamiento matemático y métodos matemáticos aplicados a las ciencias",
+            "Educación estadística",
+            "Epistemología de las matemáticas y de las ciencias",
+            "Historia de las ciencias y matemática aplicada",
+            "Métodos de optimización y nuevas tecnologías aplicadas a las ciencias",
+            "Probabilidad y estadística aplicada a las ciencias"
+        ],
+        "respuestas": [
+            "El Grupo Interdisciplinario en Ciencias GICI posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014259 ó también puedes contactarte directamente: Líder del grupo Victor Miguel Angel Burbano Pantoja, correo: grupo.gici@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIGASS",
+        "patrones": [
+            "Agroecología y ambiente",
+            "Biodiversidad y recursos genéticos",
+            "Desarrollo rural",
+            "Gestión y manejo ambiental"
+        ],
+        "respuestas": [
+            "El Grupo Interinstitucional de Investigación en Sistemas Sostenibles de Producción - GIGASS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008806 ó también puedes contactarte directamente: Líder del grupo Fabio Eleazar Lozano Suarez, correo: fabio.lozano@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIISAG",
+        "patrones": [
+            "Caracterizacion de materiales",
+            "Geomática e infraestructura",
+            "Modelación y análisis",
+            "Riesgos geoambientales",
+            "Sismología e ingeniería sísmica"
+        ],
+        "respuestas": [
+            "El Grupo Investigación en Ingeniería Sísmica y Amenazas Geoambientales posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008142 ó también puedes contactarte directamente: Líder del grupo Carlos Javier Sainea Vargas, correo: giisag@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIMI",
+        "patrones": [
+            "Bases de datos espaciales y sistemas de información geográficos",
+            "Inteligencia de negocios, bodega y minería de datos",
+            "Tendencias y tecnologías en el manejo de la información"
+        ],
+        "respuestas": [
+            "El Grupo Investigación en Manejo de Información GIMI posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006824 ó también puedes contactarte directamente: Líder del grupo Javier Antonio Ballesteros Ricaurte, correo: gimi@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GMBC",
+        "patrones": [
+            "Biocontrol de fitopatogenos",
+            "Biocontrol de insectos plaga",
+            "Interacción planta-plaga-ambiente",
+            "Manejo biologico del suelo"
+        ],
+        "respuestas": [
+            "El Grupo Manejo Biológico de Cultivos posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001955 ó también puedes contactarte directamente: Líder del grupo Jhon Wilson Martinez Osorio, correo: gmbc@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GMNF",
+        "patrones": [
+            "Beneficio metalúrgico de materiales no ferrosos",
+            "Procesamiento hidrometalúrgico de materiales no ferrosos.",
+            "Procesamiento pirometalúrgico de materiales no ferrosos.",
+            "Procesos de metalurgia extractiva sostenible y aprovechamiento de residuos."
+        ],
+        "respuestas": [
+            "El Grupo Metalurgia no Ferrosa posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014580 ó también puedes contactarte directamente: Líder del grupo Mario  Parra Pinilla, correo: gmnf@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "MODEAL",
+        "patrones": [
+            "Desigualdad económica y política social",
+            "Economía de la cultura",
+            "Educaciòn  superior en america latina",
+            "Historia económica de américa latina",
+            "Integración económica",
+            "Modelos de desarrollo en américa latina"
+        ],
+        "respuestas": [
+            "El Grupo Modelos de Desarrollo en América Latina - MODEAL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000221 ó también puedes contactarte directamente: Líder del grupo Luis Eudoro Vallejo Zamudio, correo: luvallejo1@hotmail.com"
+        ]
+    },
+    {
+        "tag": "GUIA",
+        "patrones": [
+            "Estadísticas básicas",
+            "Geografía, turismo y territorio",
+            "Innovación en la gestión del turismo",
+            "Producto turístico"
+        ],
+        "respuestas": [
+            "El Grupo Universitario de Investigación en Administración - GUIA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006111 ó también puedes contactarte directamente: Líder del grupo Tannia  Alvarez Meneses, correo: guia.ath@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "ALGEBAN",
+        "patrones": [
+            "Algebra abstracta",
+            "Analisis funcional y ecuaciones diferenciales",
+            "Educación matemática",
+            "Epistemología de las matemáticas",
+            "Género y ciencia",
+            "Lógica",
+            "Métodos numéricos"
+        ],
+        "respuestas": [
+            "El Grupo de Algebra y Análisis Uptc posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000951 ó también puedes contactarte directamente: Líder del grupo Omaida  Sepulveda Delgado, correo: grupoalgebra.analisis@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CATALISIS",
+        "patrones": [
+            "Catálisis enantioselectiva",
+            "Catálisis enzimática",
+            "Catálisis por metáles y oxidos metálicos",
+            "Fotocatálisis heterogénea",
+            "Separación con membranas"
+        ],
+        "respuestas": [
+            "El Grupo de Catálisis de la Universidad Pedagógica y Tecnológica de Colombia (GC-UPTC) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000641 ó también puedes contactarte directamente: Líder del grupo Hugo Alfonso Rojas Sarmiento, correo: catalisis@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEDMYS",
+        "patrones": [
+            "Analisis armonico",
+            "Dinamica de fluidos",
+            "E.d.p no lineales",
+            "Sistemas dinamicos, hiperbolicidad y ergodicidad",
+            "Teoria de operadores de toeplitz"
+        ],
+        "respuestas": [
+            "El Grupo de Ecuaciones Diferenciales, Modelación y Simulación - GEDMYS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017763 ó también puedes contactarte directamente: Líder del grupo Juan Carlos Juajibioy Otero, correo: gedmys@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEANT",
+        "patrones": [
+            "Bioingeniería",
+            "Energía",
+            "Sensórica",
+            "Simulación"
+        ],
+        "respuestas": [
+            "El Grupo de Energía y Aplicación de Nuevas Tecnologías posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002289 ó también puedes contactarte directamente: Líder del grupo Flavio Humberto Fernandez Morales, correo: geant@duitama.uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIEPEG",
+        "patrones": [
+            "Ecología política",
+            "Arte, memoria y paz.",
+            "Derechos humanos y democracia",
+            "Estudios de género",
+            "Educación, ruralidades y derechos de  infancia",
+            "Feminismo y género",
+            "Migración: población en situación de desplazamiento forzado",
+            "Mujer rural",
+            "Salud y género"
+        ],
+        "respuestas": [
+            "El Grupo de Estudio en Feminismos, Géneros y Derechos Humanos-GIEPEG posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000223 ó también puedes contactarte directamente: Líder del grupo Celina De Jesus Trimiño Velasquez, correo: grupo.giepeg@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GECOS",
+        "patrones": [
+            "Educación en ciencias naturales: problemáticas históricas  y contemporáneas en pedagogía y didáctica",
+            "Educación, ambiente, biodiversidad y conservación"
+        ],
+        "respuestas": [
+            "El Grupo de Estudios en Ecología, Etología, Educación y Conservación (GECOS) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001415 ó también puedes contactarte directamente: Líder del grupo Gloria Leonor Gutierrez Gomez, correo: gecos@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GEBIMOL",
+        "patrones": [
+            "Biología molecular aplicada a estudios de filogenética animal",
+            "Biología molecular y celular aplicada al campo agronómico",
+            "Estudios biológicos y genéticos de enfermedades humanas",
+            "Formación del semillero de investigación giga (grupo de estudios en genética aplicada) en el campo de la genética y la biología molecular",
+            "Taxonomía, filogenia y biogeografía de plantas"
+        ],
+        "respuestas": [
+            "El Grupo de Estudios en Genética y Biología Molecular - GEBIMOL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004374 ó también puedes contactarte directamente: Líder del grupo Yimy  Herrera Martinez, correo: gebimol@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "FINUAS",
+        "patrones": [
+            "Espectroscopia mossbauer",
+            "Fisica médica",
+            "Física forense",
+            "Metrología de las radiaciones",
+            "Protección radiológica",
+            "Radiofisica",
+            "Simulación de la interacción radiación materia"
+        ],
+        "respuestas": [
+            "El Grupo de Física Nuclear Aplicada y Simulación posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000520 ó también puedes contactarte directamente: Líder del grupo Segundo Agustin Martinez Ovalle, correo: grupo.finuas@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GFTC",
+        "patrones": [
+            "Altas energías",
+            "Física teórica y simulación computacional de sistemas físicos",
+            "Materia condensada",
+            "Sistemas complejos y redes",
+            "Óptica cuántica"
+        ],
+        "respuestas": [
+            "El Grupo de Física Teórica y Computacional posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000050 ó también puedes contactarte directamente: Líder del grupo Hanz Yecid Ramirez Gomez, correo: gftc@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "HEP",
+        "patrones": [
+            "Aerodinamica",
+            "Altas energías",
+            "Física teórica",
+            "Particulas elementales"
+        ],
+        "respuestas": [
+            "El Grupo de Física de Altas Energías posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008031 ó también puedes contactarte directamente: Líder del grupo Carlos Esteban Yaguna Toro, correo: grupohep@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIA",
+        "patrones": [
+            "Fisiología de cultivos",
+            "Ingeniería de suelos y aguas",
+            "Poscosecha"
+        ],
+        "respuestas": [
+            "El Grupo de Investigaciones Agrícolas (GIA) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004995 ó también puedes contactarte directamente: Líder del grupo Javier Giovanni Alvarez Herrera, correo: gia@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "KAIROS",
+        "patrones": [
+            "Estudios estéticos y culturales",
+            "Teoría crítica y filosofía social"
+        ],
+        "respuestas": [
+            "El Grupo de Investigaciones Filosóficas KAIROS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019435 ó también puedes contactarte directamente: Líder del grupo Manuel Oswaldo Avila Vasquez, correo: filosofia.kairos@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIHISTOR",
+        "patrones": [
+            "Historia regional",
+            "Revolución y democracia"
+        ],
+        "respuestas": [
+            "El Grupo de Investigaciones Históricas GIHISTOR posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017009 ó también puedes contactarte directamente: Líder del grupo Isidro  Vanegas Useche, correo: gihistor@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SERAMB",
+        "patrones": [
+            "Revalorizacion de residuos de la industria agroalimentaria",
+            "Nanoestructuras",
+            "Residuos industriales",
+            "Técnicas de analisis químico"
+        ],
+        "respuestas": [
+            "El Grupo de Investigaciones en Química Ambiental posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001880 ó también puedes contactarte directamente: Líder del grupo Julia Constanza Reyes Cuellar, correo: servicios.ambientales@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "ACEMED",
+        "patrones": [
+            "Educación médica, innovación y tecnologías en salud",
+            "Medicina de la mujer",
+            "Medicina integral del adulto y la vejez",
+            "Medicina integral del niño y adolescente"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación ACEMED UPTC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017150 ó también puedes contactarte directamente: Líder del grupo Luis Augusto Fajardo Hurtado, correo: luis.fajardo@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIACE",
+        "patrones": [
+            "Ciencia cognitiva",
+            "Filosofía de la tecnología",
+            "Pedagogía computacional y robótica educativa",
+            "Prácticas pedagógicas y educativas con tic"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Ambientes Computacionales Educativos - GIACE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006064 ó también puedes contactarte directamente: Líder del grupo Edgar Orlando Caro, correo: lie.giace@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "BIOCONS",
+        "patrones": [
+            "Biología vegetal",
+            "Ecología animal",
+            "Ecosistemas y sociedad",
+            "Etnobiología - aplicada a la conservación en colombia",
+            "Paleobiología",
+            "Usos y saberes de hongos en andes nororientales"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Biología para la Conservación posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001941 ó también puedes contactarte directamente: Líder del grupo Liliana  Rosero Lasprilla, correo: biologia.conservacion@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIBP",
+        "patrones": [
+            "Biomarcadores de enfermedad",
+            "Investigación básica biomédica con impacto en la salud pública",
+            "Medicina social, patología  ( quirurgica, clínica y forense )y estudios de género"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Biomédica y de Patología posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000013818 ó también puedes contactarte directamente: Líder del grupo Bibiana Matilde Bernal Gomez, correo: gibp.medicina@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIFSE",
+        "patrones": [
+            "Arte, estética y educación artística",
+            "Filosofía de la educación, enseñanza de la filosofía, filosofía e infancia",
+            "Filosofía, ética y filosofía política",
+            "Interfaces: sujeto, tecnología y sociedad",
+            "Pedagogía y pensamiento contemporáneo",
+            "Procesos psicosociales en contextos escolares"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Filosofía, Sociedad, Educación - GIFSE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005979 ó también puedes contactarte directamente: Líder del grupo Oscar  Pulido Cortes, correo: gifse@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "VALOR",
+        "patrones": [
+            "Administración financiera para agregación de valor",
+            "Caracterización de la dirección y gestión del valor en las organizaciones.",
+            "Medición y cuantificación del valor en las organizaciones",
+            "Teoría, modelos y metodologías para agregación de valor y generacion de ventajas competitivas en las organizaciones"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Gerencia del Valor y Finanzas posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005034 ó también puedes contactarte directamente: Líder del grupo Jenny Edith Parada Camargo, correo: gerencia.valor@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIIARQ",
+        "patrones": [
+            "Construcción, tecnología, materiales y gestión",
+            "Historia y teoría de la arquitectura, la ciudad y el territorio",
+            "Innovación, diseño, arquitectura y hábitat",
+            "Urbanismo, medio ambiente, paisaje y sostenibilidad"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Innovación y Arquitectura posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021803 ó también puedes contactarte directamente: Líder del grupo Jose Andres Alvarado Muñoz, correo: jose.alvarado02@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "LEVI",
+        "patrones": [
+            "Estado democrático de derecho"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Justicia Social Primo Levi posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000014782 ó también puedes contactarte directamente: Líder del grupo Luis Bernardo Diaz Gamboa, correo: primolevi@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIESCAH",
+        "patrones": [
+            "Contactos de lenguas y dialectos",
+            "Etnografía de la comunicación",
+            "Lenguaje, teología y contextos judeocristianos",
+            "Sociolingüística y adquisición de lenguas y dialectos",
+            "Sociolingüística y análisis del discurso",
+            "Sociolingüística y educación",
+            "Variación y cambio lingüístico"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Para El Estudio Sociolingüístico del Caribe e Hispanoamérica: GIESCAH posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002273 ó también puedes contactarte directamente: Líder del grupo Donald Freddy Calderon Noguera, correo: donald.calderon@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "MUISUATA",
+        "patrones": [
+            "Cultura investigativa y procesos de formaciòn",
+            "Turismo, cultura y región"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Para la Animación Cultural MUISUATA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000190 ó también puedes contactarte directamente: Líder del grupo Nohora Elisabeth Alfonso Bernal, correo: muisuata@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GISABA",
+        "patrones": [
+            "Agroecologia, biodiversidad y educación ambiental",
+            "Agroecología y salud",
+            "Control de la contaminación",
+            "Gestión del riesgo de desastres",
+            "Procesos  productivos y mineria sostenibles",
+            "Remediación de suelos contaminados"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación Sostenibilidad Ambiental, Biodiversidad y Agroecología posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000015606 ó también puedes contactarte directamente: Líder del grupo Dalia Soraya Useche De Vega, correo: gisaba@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "EEENI",
+        "patrones": [
+            "Estudios en la teoría de agregación para la toma de decisiones en entornos inciertos",
+            "Estudios sobre el comportamiento, la actitud y la subjetividad en los procesos de toma de decisiones en situaciones empresariales",
+            "Estudios sobre técnicas operativas para tratar los problemas de gestión empresarial en entornos inciertos",
+            "Modelación de escenarios empresariales con alto grado de incertidumbre"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación de Estudios Empresariales en Entornos Inciertos (EEENI) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019432 ó también puedes contactarte directamente: Líder del grupo Fabio Raul Blanco Mesa, correo: grupo.eeeni@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "FARQUIMA",
+        "patrones": [
+            "Nanoquímica y medio ambiente",
+            "Salud y gestión farmacéutica"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación de Farmacia y Medio Ambiente (FARQUIMA) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021438 ó también puedes contactarte directamente: Líder del grupo Maria Helena Brijaldo Ramirez, correo: maria.brijaldo@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CULTURA",
+        "patrones": [
+            "Conflictos, subjetividades y territorialidades",
+            "Historias, relatos y colonialismos",
+            "Patrimonio cultural",
+            "Sociedades prehispánicas"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Arqueología, Sociedad y Cultura posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001966 ó también puedes contactarte directamente: Líder del grupo Pedro Maria Arguello Garcia, correo: pedro.arguello@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIBSA",
+        "patrones": [
+            "Aprovechamiento de residuos/biomasa agrícola.",
+            "Bioeconomia y desarrollo regional",
+            "Bioproductos y bioprocesos",
+            "Economia circular",
+            "Negocios verdes/bionegocios"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Bioeconomia y Sostenibilidad Agroalimentaria - GIBSA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000021874 ó también puedes contactarte directamente: Líder del grupo Alex Fernando Lopez Cordoba, correo: alex.lopez01@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIBNA",
+        "patrones": [
+            "Producción agropecuaria",
+            "Producción animal"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Bioquímica y Nutrición Animal GIBNA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001729 ó también puedes contactarte directamente: Líder del grupo Carlos Eduardo Rodriguez Molano, correo: gibna@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GICBUPTC",
+        "patrones": [
+            "Biología evolutiva y bioinformática",
+            "Ciencias biomédicas aplicadas a problemas de salud",
+            "Entomología médica y forense",
+            "Proyección formativa y social en biomedicina"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Ciencias Biomédicas Uptc (GICBUPTC) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017643 ó también puedes contactarte directamente: Líder del grupo Ruth Maribel Forero Castro, correo: grupo.cbiomedicas@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIPSO",
+        "patrones": [
+            "Desarrollo rural sostenible",
+            "Relación suelo-planta-animal-entorno"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Desarrollo y Producción Agraria Sostenible posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010861 ó también puedes contactarte directamente: Líder del grupo Pablo Antonio Serrano Cely, correo: gipso@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIDTALLER",
+        "patrones": [
+            "Desarrollo experimental",
+            "Ergonomia y diseño",
+            "Teoria y metodologia del diseño"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Diseño \"Taller 11\" posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002293 ó también puedes contactarte directamente: Líder del grupo Otto  Caro Niño, correo: gidtaller@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "PIRAMIDE",
+        "patrones": [
+            "Didáctica de la matemática",
+            "Formación de profesores de matemática",
+            "Geometría y virtualidad",
+            "Semiótica y comunicación en matemáticas"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Educación Matemática - PIRAMIDE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001937 ó también puedes contactarte directamente: Líder del grupo Alfonso  Jimenez Espinosa, correo: grupo.piramide@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GRECO",
+        "patrones": [
+            "Grupo de analisis en resistencia bacteriana de boyaca"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Epidemiologia Clínica de Colombia posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017071 ó también puedes contactarte directamente: Líder del grupo Yardany Rafael Mendez Fandiño, correo: greco@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIE",
+        "patrones": [
+            "Aplicación de métodos y/o construcción de modelos estadísticos",
+            "Geometría y topología algebraica"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Estadística - GIE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002105 ó también puedes contactarte directamente: Líder del grupo Sandra Patricia Cardenas Ojeda, correo: grupo.gie@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GAMMA",
+        "patrones": [
+            "Análisis cienciométrico",
+            "Educación estadística",
+            "Modelos  paramétricos y no paramétricos"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Estadística Gamma posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010516 ó también puedes contactarte directamente: Líder del grupo Ana Emilce Jimenez Gonzalez, correo: gamma.estadistica@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "MICRAM",
+        "patrones": [
+            "Ambiente y territorio",
+            "Dimensión biologica y fisica del ambiente",
+            "Educación y saber ambiental"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Estudios Micro y Macro Ambientales MICRAM posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007107 ó también puedes contactarte directamente: Líder del grupo Orfa Yamile Pedraza Jimenez, correo: grupomicram@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "FAMAA",
+        "patrones": [
+            "Finanzas corporativas",
+            "Macroeconomía financiera y  finanzas internacionales",
+            "Microestructura de mercado y  valoración de activos (asset pricing)"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Finanzas y Economía Financiera \"Eugene Fama\" posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016341 ó también puedes contactarte directamente: Líder del grupo Jorge Enrique Romero Muñoz, correo: g.fama@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIGA",
+        "patrones": [
+            "Ecohidráulica",
+            "Geomatica",
+            "Gestion ambiental y desarrollo sostenible"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Geomántica y Ambiente Giga posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003071 ó también puedes contactarte directamente: Líder del grupo Gloria Lucia Camargo Millan, correo: giga@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GYC",
+        "patrones": [
+            "Cuidado a la persona, familia y comunidad",
+            "Gestión del cuidado y la salud",
+            "Pedagogía y educación para el cuidado"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Gestión y Calidad en Enfermería posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010282 ó también puedes contactarte directamente: Líder del grupo Julian Andres Barragan Becerra, correo: gyc.enfermeria@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GRINDEP",
+        "patrones": [
+            "Gestion de produccion y operaciones",
+            "Sistemas informaticos y de gestion"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Innovación y Desarrollo Productivo GRINDEP posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006474 ó también puedes contactarte directamente: Líder del grupo Hilda Lucia Jimenez Orozco, correo: grupo.grindep@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GMSUP",
+        "patrones": [
+            "Diseño, producción y caracterización de aleaciones",
+            "Metalurgia sostenible",
+            "Procesos metalúrgicos y de manufactura",
+            "Simulación termodinámica y cinética"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Materiales Siderúrgicos posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001944 ó también puedes contactarte directamente: Líder del grupo Lais  Mujica Roncery, correo: gms@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "AGROAMBIENTALES",
+        "patrones": [
+            "Gestion y desarrollo ambiental",
+            "Manejo de poscosecha de frutas y hortalizas",
+            "Mercadeo y administraciòn",
+            "Procesos agroindustriales"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Mercadeo y Ciencias Agroambientales posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011300 ó también puedes contactarte directamente: Líder del grupo Samuel Antonio Vargas Vargas, correo: c.agroambientales@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIMEFP",
+        "patrones": [
+            "Nuevos materiales y nanomateriales",
+            "Procesos de fabricación",
+            "Soldabilidad de los metales ferrosos y no ferrosos",
+            "Tecnologías para aplicación e inspección de soladuras",
+            "Tratamientos térmicos"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Metalurgia Física de Procesos de Manufactura - GIMEFP posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016153 ó también puedes contactarte directamente: Líder del grupo Ernesto  Camargo Suarez, correo: gimefp@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIPATRACOL",
+        "patrones": [
+            "Microbiologia veterinaria y sanidad animal",
+            "Nutricion animal"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Producción Animal del Trópico Alto Colombiano-- GIPATRACOL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000017929 ó también puedes contactarte directamente: Líder del grupo Roy Jose Andrade Becerra, correo: roy.andrade@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CLINICA",
+        "patrones": [
+            "Comunidades saludables",
+            "Evaluación, diagnóstico y tratamiento psicológico",
+            "Familia y pareja"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Psicología Clínica y de la Salud posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005697 ó también puedes contactarte directamente: Líder del grupo Cesar Armando Rey Anacona, correo: psicologia.clinica@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIQTA",
+        "patrones": [
+            "Biopolímeros",
+            "Control de calidad de la industria alimentaria",
+            "Gestion ambiental en la industria alimentaria",
+            "Química de alimentos y  productos naturales alimentarios",
+            "Química y tecnología de aditivos alimentarios",
+            "Tecnologia   de alimentos"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Química y Tecnología de Alimentos posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003990 ó también puedes contactarte directamente: Líder del grupo Oscar Julio Medina Vargas, correo: grupo.giqta@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIRA",
+        "patrones": [
+            "Diseño & test",
+            "Energía & medio ambiente",
+            "Robótica & automatización"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Robótica y Automatización Industrial Gira posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000590 ó también puedes contactarte directamente: Líder del grupo Wilson Javier Perez Holguin, correo: grupo.gira@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIS",
+        "patrones": [
+            "Desarrollo tecnológico para la salud, el deporte y el entretenimiento",
+            "Desarrollo de dispositivos embebidos",
+            "Desarrollo de videojuegos y ambientes virtuales",
+            "Generación de negocios con base tecnológica",
+            "Ingeniería de software",
+            "Inteligencia computacional"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Software - GIS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001981 ó también puedes contactarte directamente: Líder del grupo Mauro  Callejas Cuervo, correo: gis@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GITYD",
+        "patrones": [
+            "Educacion en ingenieria",
+            "Energias alternativas",
+            "Educación en ingeniería",
+            "Gobernabilidad de ti",
+            "Geotecnia ambiental",
+            "Gestión y desarrollo en  sistemas  mecánicos",
+            "Ingeniería de software e informática educativa",
+            "Inteligencia computacional",
+            "Materiales y sísmica",
+            "Redes, seguridad y telecomunicaciones"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación en Tecnología y Desarrollo en Ingeniería (GITYD) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006994 ó también puedes contactarte directamente: Líder del grupo Hugo Fernando Castro Silva, correo: hugofernando.castro@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GRINFRAVIAL",
+        "patrones": [
+            "Construcción de infraestructura vial",
+            "Diseño de infraestructura vial",
+            "Geotecnia vial y pavimentos",
+            "Sistemas de gestión en infraestructura vial"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación y Desarrollo en Infraestructura Vial - GRINFRAVIAL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003476 ó también puedes contactarte directamente: Líder del grupo Jorge Nevardo Prieto Muñoz, correo: grinfravial.investigacion@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GRIDSE",
+        "patrones": [
+            "Automatización y control",
+            "Diseño y simulación de sistemas eléctricos y mecánicos",
+            "Energías y medio ambiente",
+            "Investigación de materiales en ingeniería",
+            "Tecnología de la información y la comunicación"
+        ],
+        "respuestas": [
+            "El Grupo de Investigación y Desarrollo en Sistemas Electromecánicos GRIDSE posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011805 ó también puedes contactarte directamente: Líder del grupo Juan Carlos Castro Galeano, correo: gridse.uptc@gmail.com"
+        ]
+    },
+    {
+        "tag": "GSEC",
+        "patrones": [
+            "Desarrollo y estudio de recubrimientos (metálicos, poliméricos, cerámicos y organometálicos)",
+            "Física de las descargas eléctricas y sus aplicaciones tecnológicas",
+            "Instrumentación y software en electroquímica y corrosión",
+            "Técnicas eléctroquímicas"
+        ],
+        "respuestas": [
+            "El Grupo de Superficies Electroquímica y Corrosión posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001940 ó también puedes contactarte directamente: Líder del grupo Armando  Sarmiento Santos, correo: gsec@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "HISTOSALUD",
+        "patrones": [
+            "Bioantropología-paleopatología",
+            "Historia de la medicina y la salud en boyacá",
+            "Saberes y prácticas populares en salud en boyacá"
+        ],
+        "respuestas": [
+            "El grupo de Historia de la Salud en Boyacá posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001975 ó también puedes contactarte directamente: Líder del grupo Edwar Javier Manrique Corredor, correo: grupo.histosalud@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "HISULA",
+        "patrones": [
+            "Historia y prospectiva de la universidad en américa latina",
+            "Universidad  formación de educadores e interculturalidad",
+            "Universidad, ciudadanía y nación"
+        ],
+        "respuestas": [
+            "El grupo de Historia y Prospectiva de la Universidad Latinoamericana. HISULA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001974 ó también puedes contactarte directamente: Líder del grupo Diana Elvira Soto Arango, correo: hisula@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "HECOS",
+        "patrones": [
+            "Cultura organizacional y responsabilidad social",
+            "Contabilidad, región y sociedad",
+            "Desarrollo regional",
+            "Educación y sociedad",
+            "Educación,  pedagogía y sociedad",
+            "Hacienda pública y fiscalidad",
+            "Historia social y económica de colombia: siglo xix",
+            "Procesos de convergencia y armonizacion en estandares de informacion"
+        ],
+        "respuestas": [
+            "El grupo de Historia, Educación, Economía, Contabilidad y Sociedad: HECOS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004563 ó también puedes contactarte directamente: Líder del grupo Carlos Alberto Molina Rodriguez, correo: hecos.chiquinquira@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "ELECTRÓNICA",
+        "patrones": [
+            "Agrónica",
+            "Gestión energética",
+            "Instrumentación medica",
+            "Telemetria"
+        ],
+        "respuestas": [
+            "El grupo I2E - Investigación en Ingeniería Electrónica posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016767 ó también puedes contactarte directamente: Líder del grupo Ilber Adonayt Ruge Ruge, correo: i2e@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "COMPETITIVIDAD”",
+        "patrones": [
+            "Hábitat y desarrollo sostenible",
+            "Inteligencia competitiva y gestión de información"
+        ],
+        "respuestas": [
+            "El grupo INNTEC “Innovación, Tecnología y Competitividad” posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016448 ó también puedes contactarte directamente: Líder del grupo Jose Luis Cruz Vasquez, correo: grupo.inntec@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "IDEAS",
+        "patrones": [
+            "Derechos humanos, justicia social y paz",
+            "Desarrollo  agroindustrial y empresarial",
+            "Estudios organizacionales"
+        ],
+        "respuestas": [
+            "El grupo IDEAS \"Investigadores Para El Desarrollo Empresarial y Agroindustrial Sostenible\" posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001613 ó también puedes contactarte directamente: Líder del grupo Marlen  Suarez Pineda, correo: grupo.ideas@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "CRESCENDO",
+        "patrones": [
+            "Cognición y educación musical",
+            "Estudios disciplinares de la música"
+        ],
+        "respuestas": [
+            "El grupo IN Crescendo posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000003661 ó también puedes contactarte directamente: Líder del grupo Pilar Jovanna Holguin Tovar, correo: increscendo@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "INGEOLOG",
+        "patrones": [
+            "Análisis de cuencas",
+            "Geocronología-termocronología y métodos cuantitativos",
+            "Geología ambiental e hidrogeologia",
+            "Geomorfología y modelado numérico del relieve",
+            "Geotecnia, neotectónica  e ingeniería sísmica",
+            "Hidrocarburos no convencionales (cbm - shale gas)",
+            "Recursos naturales de aprovechamiento industrial"
+        ],
+        "respuestas": [
+            "El grupo de Ingeniería Geológica Uptc posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000105 ó también puedes contactarte directamente: Líder del grupo Mauricio Alberto Bermudez Cella, correo: ingeolog@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIEM",
+        "patrones": [
+            "Analisis de falla",
+            "Analisis por sistemas de informacion georeferenciada",
+            "Caracterización de materiales",
+            "Inspeccion, monitoreo y control relacionados con corrosion.",
+            "Integridad mecanica de materiales",
+            "Materiales fotovoltaicos",
+            "Materiales pulvimetalúrgicos",
+            "Recubrimientos"
+        ],
+        "respuestas": [
+            "El grupo de Integridad y Evaluación de Materiales \"GIEM\" posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004182 ó también puedes contactarte directamente: Líder del grupo Enrique  Vera Lopez, correo: giem@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "IMCLE",
+        "patrones": [
+            "Bilinguismo y educacion bilingüe",
+            "Educación y pedagogía de las ciencias del lenguaje",
+            "Lenguaje sociedad y cultura",
+            "Tecnologias digitales (gestión del conocimiento, tic en educación, e-learning, ambientes de aprendizaje en línea, redes sociales)"
+        ],
+        "respuestas": [
+            "El grupo de Investigación Multidisciplinar en Culturas y Lenguas Extranjeras posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000020072 ó también puedes contactarte directamente: Líder del grupo David  Camargo Ponguta, correo: imcle.researchgroup@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIDOT",
+        "patrones": [
+            "Análisis territori0 con sistemas de información geográfica, sig. - movilidad sostenible",
+            "Capacidad y nivel de servicio de la infraestructura de transporte",
+            "Formación ingenieros de tránsito",
+            "Planeación, diseño y operación del tránsito",
+            "Seguridad vial",
+            "Simulación del tránsito"
+        ],
+        "respuestas": [
+            "El grupo de Investigación y Desarrollo en Operación del Transito-GIDOT posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000017 ó también puedes contactarte directamente: Líder del grupo Fredy Alberto Guio Burgos, correo: gidot@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIDPOT",
+        "patrones": [
+            "Gestión y operación de los sistemas de transporte",
+            "Medio ambiente y transporte",
+            "Planeación del transporte",
+            "Transporte y territorio"
+        ],
+        "respuestas": [
+            "El grupo de Investigación y Desarrollo en Planeación y Operación del Transporte-GIDPOT posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001952 ó también puedes contactarte directamente: Líder del grupo Luis Alfredo Vega Baez, correo: grupo.gidpot@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "ILAC.",
+        "patrones": [
+            "Científicos criollos e ilustración",
+            "Recepción y  difusión de la  ilustración en américa"
+        ],
+        "respuestas": [
+            "El grupo Ilustración en América Colonial. ILAC. posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000001972 ó también puedes contactarte directamente: Líder del grupo Diana Elvira Soto Arango, correo: ilac@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SOECOL",
+        "patrones": [
+            "Asesorías en análisis de datos cuantitativos y económicos",
+            "Desarrollo regional y urbano",
+            "Desarrollo social del pensamiento en economia en colombia 1950-2010.",
+            "Economía ambiental y ecológica",
+            "Planificación del desarrollo regional"
+        ],
+        "respuestas": [
+            "El grupo Sociedad Económica en Colombia -SOECOL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005010 ó también puedes contactarte directamente: Líder del grupo Maria Isabel Rojas Triana, correo: soecol.uptc@gmail.com"
+        ]
+    },
+    {
+        "tag": "LEEN",
+        "patrones": [
+            "El uso de la imagen como una herramienta social para consolidar el proyecto de construcción de nación",
+            "El uso del texto escolar como un recurso para la consolidación del proyecto nacional.",
+            "Lectura y escritura en educación",
+            "Los lenguajes virtuales en educación y su impacto en el desarrollo social"
+        ],
+        "respuestas": [
+            "El grupo de Lenguajes en Educación LEEN posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000011632 ó también puedes contactarte directamente: Líder del grupo Doris Lilia Torres Cruz, correo: grupo.leen@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SEGES",
+        "patrones": [
+            "Emprendimiento, capital social  y espíritu empresarial",
+            "Epistemología de la administración y equidad de género",
+            "Gestion del conocimiento",
+            "Gestion del talento humano, clima, cultura organizacional, motivacion y liderazgo",
+            "Marketing"
+        ],
+        "respuestas": [
+            "El grupo Management UPTC posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000006337 ó también puedes contactarte directamente: Líder del grupo Ricardo Gustavo Molina Valencia, correo: seges.eaes08@gmail.com"
+        ]
+    },
+    {
+        "tag": "XIUA",
+        "patrones": [
+            "Ecología acuática y ambiental",
+            "Ecología y ecofisiología vegetal",
+            "Investigación, gestión y manejo de la biodiversidad"
+        ],
+        "respuestas": [
+            "El grupo Manejo Integrado de Ecosistemas y Biodiversidad posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000708 ó también puedes contactarte directamente: Líder del grupo Yimy  Herrera Martinez, correo: grupo.xiua@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GIMS",
+        "patrones": [
+            "Entornos y comportamientos saludables",
+            "Participacion y empoderamiento comunitario",
+            "Politicas públicas saludables"
+        ],
+        "respuestas": [
+            "El grupo Municipio Saludable Por la Paz - GIMS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000134 ó también puedes contactarte directamente: Líder del grupo Nancy Aurora Agudelo Cely, correo: municipio.saludable@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "OBSERVATORIO",
+        "patrones": [
+            "Calidad, medio ambiente y seguridad laboral.",
+            "Estrategia y organización.",
+            "Gestión de proyectos",
+            "Procesos agroindustriales",
+            "Producción y logística"
+        ],
+        "respuestas": [
+            "El grupo Observatorio posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004158 ó también puedes contactarte directamente: Líder del grupo Hugo Felipe Salazar Sanabria, correo: grupo.observatorio@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "OTGUIA",
+        "patrones": [
+            "Diseño de productos turísticos",
+            "Gestión de información turística"
+        ],
+        "respuestas": [
+            "El grupo Observatorio Turístico posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000020796 ó también puedes contactarte directamente: Líder del grupo Ramon Hernando Granados, correo: otguia@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "OIKOS",
+        "patrones": [
+            "Coyuntura economica"
+        ],
+        "respuestas": [
+            "El grupo Observatorio de Coyuntura Económica Regional y Urbana OIKOS posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002022 ó también puedes contactarte directamente: Líder del grupo Jose Luis Cruz Vasquez, correo: grupo.oikos@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "PROAM",
+        "patrones": [
+            "Biomineralización",
+            "Biominería",
+            "Bioprocesos"
+        ],
+        "respuestas": [
+            "El grupo Procesos Ambientalmente Amigables posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016558 ó también puedes contactarte directamente: Líder del grupo Gerardo Andres Caicedo Pineda, correo: grupo.proam@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "PODER",
+        "patrones": [
+            "Administración, gestión tecnológica y desarrollo empresarial",
+            "Pensamiento administrativo y gestión en las organizaciones públicas y privadas."
+        ],
+        "respuestas": [
+            "El grupo Proyectos Organizacionales Para El Desarrollo Empresarial de la Región - Poder posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009331 ó también puedes contactarte directamente: Líder del grupo Norlando Sanchez, correo: poder.investigacion@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "QUIMOL",
+        "patrones": [
+            "Fitoquímica y productos naturales",
+            "Química teórica y modelamiento computacional",
+            "Síntesis y estudio químico de nuevos compuestos"
+        ],
+        "respuestas": [
+            "El grupo de Química - Física Molecular y Modelamiento Computacional - QUIMOL posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002123 ó también puedes contactarte directamente: Líder del grupo Jovanny Arles Gomez Castaño, correo: grupo.quimol@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "RIZOMA",
+        "patrones": [
+            "Pedagogía y currículo"
+        ],
+        "respuestas": [
+            "El grupo RIZOMA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000005693 ó también puedes contactarte directamente: Líder del grupo Sandra Elizabeth Suarez Paez, correo: rayuelita1@yahoo.es"
+        ]
+    },
+    {
+        "tag": "HUMANA",
+        "patrones": [
+            "Centro de formación para la participación ciudadana y comunitaria",
+            "Dignidad humana, desarrollo y paz social"
+        ],
+        "respuestas": [
+            "El grupo Reconciliación Con la Justicia y la Dignidad Humana - Red Humana posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000008916 ó también puedes contactarte directamente: Líder del grupo Carlos Alfonso Cardenas Hernandez, correo: redhumana@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "RESET",
+        "patrones": [
+            "Soluciones pedagógicas para la educación en ciencia y tecnología",
+            "Soluciones tecnológicas básicas"
+        ],
+        "respuestas": [
+            "El grupo Research In Science, Education And Technology - Reset posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000018841 ó también puedes contactarte directamente: Líder del grupo Claudia Esperanza Saavedra Bautista, correo: grupo.reset@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SIEK",
+        "patrones": [
+            "Aula y escuela",
+            "Desarrollo educativo y social",
+            "Practicas de formación de licenciados en educación básica"
+        ],
+        "respuestas": [
+            "El grupo SIEK Saberes Interdisciplinares en Construcción posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000009140 ó también puedes contactarte directamente: Líder del grupo Nubia Elena Pineda De Cuadros, correo: siek@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SIMILES",
+        "patrones": [
+            "Educación y tic",
+            "Organizaciones y gestión del conocimiento",
+            "Tic y sociedad"
+        ],
+        "respuestas": [
+            "El grupo SIMILES Sociedad, Gestión y Construcción del Conocimiento en la Era Digital posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000423 ó también puedes contactarte directamente: Líder del grupo Aracelly  Forero Romero, correo: similes@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SATRACAVI",
+        "patrones": [
+            "Procesos de gestión humana",
+            "Caracterización salud trabajo- en población trabajadora",
+            "Comunidades saludables"
+        ],
+        "respuestas": [
+            "El grupo Salud Trabajo y Calidad de Vida SATRACAVI posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004712 ó también puedes contactarte directamente: Líder del grupo Ninfa Del Carmen Pulido Moreno, correo: saludtrabajoycalidadevida@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "GSLENG",
+        "patrones": [
+            "Lenguaje, arte y cultura"
+        ],
+        "respuestas": [
+            "El grupo Senderos del Lenguaje posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000002986 ó también puedes contactarte directamente: Líder del grupo Witton Hernando Becerra Mayorga, correo: witton.becerra@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SINERGIA",
+        "patrones": [
+            "Democracia y sistemas políticos",
+            "Derechos humanos con perspectiva de lo público",
+            "Emprendimiento e historia empresarial",
+            "Gestión educativa",
+            "Gestión financiera organizacional",
+            "Gestión industrial y emprenderismo",
+            "Gestión e innovación territorial",
+            "Organizaciones y gerencia del estado"
+        ],
+        "respuestas": [
+            "El grupo Sinergia Organizacional posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007198 ó también puedes contactarte directamente: Líder del grupo Juan Manuel Ramirez Mora, correo: sinergiao.chiquinquira@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SISBIO",
+        "patrones": [
+            "Colecciones biológicas herbario uptc y laboratorio de entomología",
+            "Sistemática de angiospermas",
+            "Sistemática, conservación, restauración y uso de los recursos biológicos",
+            "Sistemática, ecología y conservación  de briófitos y líquenes",
+            "Taxonomía y sistemática de insectos"
+        ],
+        "respuestas": [
+            "El grupo Sistemática Biológica posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004994 ó también puedes contactarte directamente: Líder del grupo Maria Eugenia Morales Puentes, correo: sisbio@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "SOMOS",
+        "patrones": [
+            "Aulas investigativas en matemáticas",
+            "Educación matemática y matemáticas aplicadas a las ciencias básicas e ingeniería.",
+            "Formación investigativa del profesor de matemáticas",
+            "Saberes, conocimientos y prácticas en la formación de profesores de matemáticas"
+        ],
+        "respuestas": [
+            "El grupo Somos Maestr@S posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000019478 ó también puedes contactarte directamente: Líder del grupo Lida Esperanza Riscanevo Espitia, correo: somos.maestros@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "TELEMATICS",
+        "patrones": [
+            "Ciberseguridad",
+            "Internet of everything",
+            "Sistemas personalizados/ adaptativos",
+            "Technology- enhanced learning (tel)"
+        ],
+        "respuestas": [
+            "El grupo Telematics- Grupo de Investigación en Telemática y Tic Aplicadas posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000016818 ó también puedes contactarte directamente: Líder del grupo Miguel Angel Mendoza Moreno, correo: telematics@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "TENPEDG",
+        "patrones": [
+            "Actividad fisica para la  salud",
+            "Deporte y gestion",
+            "Pedagogia motricidad y recreacion"
+        ],
+        "respuestas": [
+            "El grupo Tendencias Pedagógicas posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007149 ó también puedes contactarte directamente: Líder del grupo Gladys Jaimes Jaimes, correo: gladys.jaimes@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "TICAS",
+        "patrones": [
+            "Sistemas de información y tic. (bases de datos, ingeniería de software, gestión tecnológica, redes y telecomunicaciones)",
+            "Tecnologías digitales (gestión del conocimiento, tic en educación, elearning, ambientes de aprendizaje en linea, redes sociales)"
+        ],
+        "respuestas": [
+            "El grupo Tica Tecnología Investigación y Ciencia Aplicada posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000004063 ó también puedes contactarte directamente: Líder del grupo Ariel Adolfo Rodriguez Hernandez, correo: tica@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "TONGUE",
+        "patrones": [
+            "Educación y formación de educadores",
+            "Diseño y evaluacion de materiales  para la enseñanza de lenguas extranjeras.",
+            "Educación y formación de educadores",
+            "Innovaciones pedagógicas en lenguas extranjera",
+            "Pedagogía currículo y didáctica"
+        ],
+        "respuestas": [
+            "El grupo Tongue: Teaching On New Grounds Unexplored English Possibilities posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000010336 ó también puedes contactarte directamente: Líder del grupo Bertha  Ramos Holguin, correo: grupo.tongue@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "UDESA",
+        "patrones": [
+            "Biomonitoreo, modelación y servicios de ecosistemas acuáticos",
+            "Cambio global y ecosistemas acuáticos",
+            "Ecotoxicología, agua y salud ambiental"
+        ],
+        "respuestas": [
+            "El grupo Unidad de Ecología en Sistemas Acuáticos UDESA posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000172 ó también puedes contactarte directamente: Líder del grupo Adriana Janneth Espinosa Ramirez, correo: ecologia.acuatica@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "VTS",
+        "patrones": [
+            "Equilibrio y cohesión territorial",
+            "Ordenamiento territorial y ambiental (ot - oat)",
+            "Problemas geográfico territoriales (investigación y geopedagogía)",
+            "Saberes ancestrales e interculturalidad",
+            "Tecnologías de información geográfica  (tig) aplicadas a la investigación",
+            "Vida territorial sostenible (vts)"
+        ],
+        "respuestas": [
+            "El grupo Vida Territorial Sostenible (VTS) posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000000699 ó también puedes contactarte directamente: Líder del grupo Franz  Gutierrez Rey, correo: vts.oat@uptc.edu.co"
+        ]
+    },
+    {
+        "tag": "WAIRA",
+        "patrones": [
+            "Educación y gestión ambiental para la sustentabilidad ambiental",
+            "Estudios sobre flora, fauna y ecosistemas estratégicos colombianos",
+            "Investigación e innovación en pedagogía y didáctica de las ciencias naturales y la educación ambiental"
+        ],
+        "respuestas": [
+            "El grupo WAIRA Ambiente, Comunidad y Desarrollo posee la línea de investigación que buscas, puedes visitar su gruplac acá: https://scienti.minciencias.gov.co/gruplac/jsp/visualiza/visualizagr.jsp?nro=00000000007230 ó también puedes contactarte directamente: Líder del grupo Nestor Adolfo Pachon Barbosa, correo: grupowaira@uptc.edu.co"
+        ]
+    }
+    ]
+  }
